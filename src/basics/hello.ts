@@ -1,6 +1,3 @@
-function sayHello(person: string) {
-  return 'Hello, ' + person;
-}
-
-let user = 'Tom';
-console.log(sayHello(user));
+var a: number;
+a = 213;
+console.log(a)

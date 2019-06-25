@@ -1,0 +1,23 @@
+{
+  "name": "awesome-typescript",
+  "version": "1.0.0",
+  "description": "awesome-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoldDie/awesome-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoldDie/awesome-typescript/issues"
+  },
+  "homepage": "https://github.com/HoldDie/awesome-typescript#readme",
+  "dependencies": {
+    "@types/node": "^12.0.10"
+  }
+}
